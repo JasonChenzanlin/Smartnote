@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">SmartNote</string>
+    <string name="OpenFile">打开文件</string>
+    <string name="save_voice">录音</string>
+    <string name="friend_list">朋友列表</string>
+    <string name="myself">我</string>
+    <string name="send">发送</string>
+    <string-array name="language_entries">
+        <item>普通话</item>
+        <item>粤语</item>
+        <item>英语</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>mandarin</item>
+        <item>cantonese</item>
+        <item>en_us</item>
+    </string-array>
+    <string-array name="punc_entries">
+        <item>有标点</item>
+        <item>无标点</item>
+    </string-array>
+    <string-array name="punc_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="dwa_entries">
+        <item>开启</item>
+        <item>关闭</item>
+    </string-array>
+    <!-- 语音评测 -->
+    <string name="text_en_word">"[word]\napple\nbanana\norange"</string>
+    <string name="text_en_sentence">"The quick brown fox jumps over the lazy dog."</string>
+    <string name="text_cn_syllable">"知，痴，是"</string>
+    <string name="text_cn_word">"磁铁，率领，脆弱，动手，古筝"</string>
+    <string name="text_cn_sentence">"一座座雪峰插入云霄，峰顶银光闪闪，大大小小的湖泊，像颗颗宝石镶嵌在彩带般的沟谷中。"</string>
+    <string-array name="ise_language_entries">
+        <item>英语</item>
+        <item>汉语</item>
+    </string-array>
+    <string-array name="ise_language_values">
+        <item>en_us</item>
+        <item>zh_cn</item>
+    </string-array>
+    <string-array name="category_entries">
+        <item>单字</item>
+        <item>词语</item>
+        <item>句子</item>
+    </string-array>
+    <string-array name="category_values">
+        <item>read_syllable</item>
+        <item>read_word</item>
+        <item>read_sentence</item>
+    </string-array>
+    <string-array name="result_level_entries">
+        <item>plain</item>
+        <item>complete</item>
+    </string-array>
+    <string-array name="stream_entries">
+        <item>通话</item>
+        <item>系统</item>
+        <item>铃声</item>
+        <item>音乐</item>
+        <item>闹铃</item>
+        <item>通知</item>
+    </string-array>
+    <string-array name="stream_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="title_activity_login">SmartNote</string>
+    <string name="username">用户名</string>
+    <string name="password">密  码</string>
+    <string name="useremail">邮  箱</string>
+    <string name="checksaveid">记住账号</string>
+    <string name="login">登 录</string>
+    <string name="password_rules">0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="checksavepassword">记住密码</string>
+    <string name="rigist">注 册</string>
+
+    <string name="main_tab_recent">会话</string>
+    <string name="main_tab_contact">联系人</string>
+    <string name="mian_tab_set">设置</string>
+
+    <string name="add_avator">头像</string>
+    <string name="add_nick">昵称</string>
+    <string name="add_name">账号</string>
+    <string name="agree">接受</string>
+    <string name="new_friend">新朋友</string>
+
+    <string name="chat">陌生人聊天</string>
+    <string name="add_friend">添加好友</string>
+
+    <string name="set_notify">接收新消息通知</string>
+    <string name="set_myinfo">个人资料</string>
+    <string name="set_blacklist">黑名单</string>
+    <string name="set_voice">声音</string>
+    <string name="set_vibrate">震动</string>
+    <string name="logout">退出登陆</string>
+
+    <string name="longclick_speak">长按说话</string>
+    <string name="picture">照片</string>
+    <string name="camera">拍摄</string>
+    <string name="location">位置</string>
+    <string name="voice_up_tips">手指上滑,取消发送</string>
+    <string name="voice_cancel_tips">松开手指，取消发送</string>
+    <string name="voice_seconds_tips">还可以说%1$s秒</string>
+    <string name="voice_short_tips">录音时间太短</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_info">UserInfoActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="voice_settings">录音设置</string>
+</resources>
